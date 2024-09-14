@@ -15,7 +15,7 @@ st.slider('slider',0,100)
 select=st.selectbox('select box',['A','B','C','D'])
 st.write('you selected',select)
 st.multiselect('multi select box',['A','B','C','D','E'])
-st.image(r'C:\Users\javadisu\OneDrive - Vertafore, Inc\sunil\python pr\Screenshot.png')
+
 on=st.toggle("Toggle button")
 if on:
     st.write('toggle activated')
