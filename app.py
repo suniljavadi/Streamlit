@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-st.title('Sunil Javadi Portfolio website')
+st.title('Sunil Javadi website')
 st.header("this is header")
 st.subheader("this is practice")
 st.write('This is a simple Streamlit app.')
